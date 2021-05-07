@@ -16,3 +16,24 @@ git clone https://github.com/legoffant/learnprogramming.git
 ```
 
 Remind to have 2go available on hardisk to download more of 200 books
+
+## Roadmap
+
+Where to start? If you are a complete beginner, I advise you to read Eric Raymond's article on hacking:
+
+* [How to Become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
+Then move on topic like:
+
+1. System programming, pointer in C and arduino
+2. OOP (Object oriented programming) in C++
+3. Shell and python scripting
+4. Learn Vim while programming for all task(forget IDE)
+5. Git and version control
+6. Linux for hackers
+7. Build a lab with VM's and board like Beaglebone black on your network
+8. Safe hack
+9. Data structure and algorithm
+10. Design pattern
+11. Data vizualization
+
