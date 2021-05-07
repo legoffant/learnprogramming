@@ -43,4 +43,10 @@ This library may need more reference, if you want to participate don't hesitate 
 
 * [Step-by-step contributing on Github](https://www.dataschool.io/how-to-contribute-on-github/)
 
+## The vision
 
+My temperament is to seek breakthrough innovation in industry and technology. I look to the stars on long term projects such as asteroid mining possibilities. This industry will be fully robotic with drones. For the moment, only the Boeing x-37 has space drone capabilities. But in the future the needs of drones in the air for freight will be the start of space drones. Major on-board system projects are therefore awaiting some innovations as well as inventions of a new propellant as well as of system architecture. The opportunity is to develop a fully open source space industry with a focus on freight.This library provides the necessary ammunition with little to train you on on-board systems and drones.
+
+## Contact me
+
+I'm available on twitter for discussion in the pseudo "Trviality" @anth_lg. Start to connect and make a network.
