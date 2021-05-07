@@ -49,4 +49,4 @@ My temperament is to seek breakthrough innovation in industry and technology. I 
 
 ## Contact me
 
-I'm available on twitter for discussion in the pseudo "Trviality" @anth_lg. Start to connect and make a network.
+I'm available on twitter for discussion in the pseudo "Triviality" @anth_lg. Start to connect and make a network.
