@@ -37,3 +37,10 @@ Then move on topic like:
 10. Design pattern
 11. Data vizualization
 
+## Contribute
+
+This library may need more reference, if you want to participate don't hesitate to fork this repository and create your branch with your potential additions. Follow this document for more details if this is your first Pull Request (PR) on Github. Any help is welcome.
+
+* [Step-by-step contributing on Github](https://www.dataschool.io/how-to-contribute-on-github/)
+
+
